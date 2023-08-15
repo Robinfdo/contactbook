@@ -46,6 +46,17 @@ body{
     /* float: left; */
     left: 0px;
 }
+/* @media screen and (max-width: 1005px) {
+    body{
+        font-family: 'Courier New', Courier, monospace;
+        background-color: aqua;
+    }
+    .icons{
+        position:relative;
+        top: .5cm;
+        margin-left: 70%;
+    }
+} */
 .icons{
     position:absolute;
     top:.8cm;
